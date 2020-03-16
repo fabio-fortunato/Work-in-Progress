@@ -1,0 +1,33 @@
+body 
+{
+    background-color:yellow;
+    font-family: 'Anton', sans-serif;
+    text-align: center;
+
+}
+
+main{
+    text-align: center;
+}
+
+
+
+
+
+table,  
+td{
+    border: 1px solid #333;
+    
+}
+
+thead,
+tfoot{
+    background-color: #333;
+    color: #fff;
+
+    }
+
+    footer{
+        text-align: center;
+    }
+    
